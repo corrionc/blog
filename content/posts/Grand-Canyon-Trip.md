@@ -1,6 +1,6 @@
 +++
 date = '2025-11-30T10:08:29-05:00'
-draft = true
+draft = false
 title = 'Grand Canyon Planning'
 +++
 
