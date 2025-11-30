@@ -4,26 +4,7 @@ draft = false
 title = 'Grand Canyon Planning'
 +++
 
-## [NPS Page on South RIM](https://www.nps.gov/grca/planyourvisit/lodging.htm)
-## Places to stay (Currently looking at March 2026)
-- [Google Travel Page of lodging](https://www.google.com/travel/search?q=Grand%20Canyon%20South%20RIM&ts=CAEqBwoFOgNVU0Q&ved=0CAAQ5JsGahcKEwjI7ZzT6pqRAxUAAAAAHQAAAAAQew&ictx=3&qs=CAAgACgA&ap=MAA)
-- [Yavapai Lodge](https://www.visitgrandcanyon.com/stay/lodging/yavapai-lodge/#room-types) $280/night
-- Bright Angel Lodge  $145-$160/night
-- El Tovar Hotel $264/night
-- Kachina Lodge  $320/360/night
-- Thunderbird Lodge  $336-56/night
-- Maswik Lodge $200-$320/night
-- Are these on the Southern Rim?
-	- [Clear Sky Resorts - Grand Canyon, AZ- Unique Sky Domes](https://www.tripadvisor.com/Hotel_Review-g11805073-d23112091-Reviews-Clear_Sky_Resorts_Grand_Canyon_AZ_Unique_Sky_Domes-Valle_Arizona.html?spAttributionToken=MjE3NTcxMjQ)
-	- [Thunderbird Lodge](https://www.tripadvisor.com/Hotel_Review-g143028-d2021500-Reviews-Thunderbird_Lodge-Grand_Canyon_National_Park_Arizona.html)
-	- [Red Feather Lodge](https://www.tripadvisor.com/Hotel_Review-g31393-d567125-Reviews-Red_Feather_Lodge-Tusayan_Arizona.html)
-
-## Things to do
-- [Grand Canyon South Rim](https://www.tripadvisor.com/Attraction_Review-g143028-d109440-Reviews-Grand_Canyon_South_Rim-Grand_Canyon_National_Park_Arizona.html)
-- [Native American Art of the Grand Canyon](https://www.nps.gov/articles/000/native-art-and-activism-of-the-grand-canyon.htm)
-- [Skywalk Bridge](https://grandcanyonwest.com/things-to-do/skywalk/)
-
-## Grand Canyon Family Itinerary – Early Spring (South Rim)
+## Family Itinerary – Early Spring (South Rim)
 5-Day Itinerary for Multigenerational Family (Grandparent + Adults + Kids under 10)
 ### Day 1 – Arrival & Easy Introduction to the Canyon
 1. Arrive via the South Entrance and check into Maswik, Yavapai, or Bright Angel Lodge.
@@ -32,8 +13,7 @@ title = 'Grand Canyon Planning'
 4. Dinner at El Tovar Dining Room; sunset viewing at Mather Point.
 ### Day 2 – Scenic Train & Village Highlights
 1. Optional: Ride the Grand Canyon Railway from Williams.
-2. Explore the Grand Canyon Village Historic District – Kolb Studio, Lookout Studio, and
-Hopi House.
+2. Explore the Grand Canyon Village Historic District – Kolb Studio, Lookout Studio, and Hopi House.
 3. Lunch at the Arizona Room; short walk on Bright Angel Trail for a taste of the inner
 canyon.
 4. Evening Ranger talk or stargazing at Mather Point.
@@ -60,17 +40,31 @@ canyon.
 4. Avoid steep descents into the canyon; stick to rim trails for easy terrain.
 5. Bring refillable water bottles, binoculars, and sun protection.
 
+
+
+### Reference
+#### [NPS Page on South RIM](https://www.nps.gov/grca/planyourvisit/lodging.htm)
+## Places to stay (Currently looking at April 2026)
+- [Google Travel Page of lodging](https://www.google.com/travel/search?q=Grand%20Canyon%20South%20RIM&ts=CAEqBwoFOgNVU0Q&ved=0CAAQ5JsGahcKEwjI7ZzT6pqRAxUAAAAAHQAAAAAQew&ictx=3&qs=CAAgACgA&ap=MAA)
+- [Yavapai Lodge](https://www.visitgrandcanyon.com/stay/lodging/yavapai-lodge/#room-types) $280/night
+- [Bright Angel Lodge](https://www.grandcanyonlodges.com/lodging/bright-angel-lodge-cabins/)  $145-$160/night
+- [El Tovar Hotel](https://www.grandcanyonlodges.com/lodging/el-tovar-hotel/) $264/night
+- [Kachina Lodge](https://www.grandcanyonlodges.com/lodging/kachina-lodge/)  $320/360/night
+- [Thunderbird Lodge](https://www.grandcanyonlodges.com/lodging/thunderbird-lodge/)  $336-56/night
+- [Maswik Lodge](https://www.grandcanyonlodges.com/lodging/maswik-lodge/) $200-$320/night
+- [Red Feather Lodge](https://www.tripadvisor.com/Hotel_Review-g31393-d567125-Reviews-Red_Feather_Lodge-Tusayan_Arizona.html) $120-171/night
+
+## Other things to do
+- [Grand Canyon South Rim](https://www.tripadvisor.com/Attraction_Review-g143028-d109440-Reviews-Grand_Canyon_South_Rim-Grand_Canyon_National_Park_Arizona.html)
+- [Bearzonia](https://bearizona.com/)
+- [Native American Art of the Grand Canyon](https://www.nps.gov/articles/000/native-art-and-activism-of-the-grand-canyon.htm)
+- [Skywalk Bridge](https://grandcanyonwest.com/things-to-do/skywalk/)
+
+
 ## Getting there
-[IHA Matrix for Nov 7 to Nov 14th](https://matrix.itasoftware.com/flights?search=eyJ0eXBlIjoicm91bmQtdHJpcCIsInNsaWNlcyI6W3sib3JpZ2luIjpbIkRUVyJdLCJkZXN0IjpbIkZMRyIsIkdDTiIsIlBIWCJdLCJyb3V0aW5nIjoiIiwiZXh0IjoiIiwicm91dGluZ1JldCI6IiIsImV4dFJldCI6IiIsImRhdGVzIjp7InNlYXJjaERhdGVUeXBlIjoiY2FsZW5kYXIiLCJkZXBhcnR1cmVEYXRlIjoiMjAyMy0xMC0xNSIsImRlcGFydHVyZURhdGVUeXBlIjoiZGVwYXJ0IiwiZGVwYXJ0dXJlRGF0ZU1vZGlmaWVyIjoiMCIsImRlcGFydHVyZURhdGVQcmVmZXJyZWRUaW1lcyI6W10sImR1cmF0aW9uIjoiNyIsInJldHVybkRhdGVUeXBlIjoiZGVwYXJ0IiwicmV0dXJuRGF0ZU1vZGlmaWVyIjoiMCIsInJldHVybkRhdGVQcmVmZXJyZWRUaW1lcyI6W119fV0sIm9wdGlvbnMiOnsiY2FiaW4iOiJQUkVNSVVNLUNPQUNIIiwic3RvcHMiOiItMSIsImV4dHJhU3RvcHMiOiIxIiwiYWxsb3dBaXJwb3J0Q2hhbmdlcyI6InRydWUiLCJzaG93T25seUF2YWlsYWJsZSI6InRydWUifSwicGF4Ijp7ImFkdWx0cyI6IjMifSwic29sdXRpb24iOnsic2Vzc2lvbklkIjoiclJyMGVKeTc4VFVoVnRMbWNrbU1xQWFxbSIsInlkIjp0cnVlLCJraCI6IjBMMzZZOHN5STREOFRXRzJxUkdvVEhLIiwiQWkiOm51bGx9fQ%3D%3D) - Lowest price is ~$540/person
-
-# When to visit 
-- Spring sounds best:
-```
-The best time to visit the Grand Canyon depends on what you're looking for in your trip. 
-
-Spring (April through June) and Fall (September through November) are generally the best times to visit the Grand Canyon. The weather during these months is usually mild, with daytime temperatures ranging between 50-70 degrees Fahrenheit. Both spring and fall offer less crowded conditions than peak summer season.
-
-If you're looking to avoid crowds, winter (December through February) could be a good time to visit. However, colder conditions and potential snow could affect accessibility and activities.
-
-Summer (July through August) often sees extremely hot temperatures and crowded conditions, but it's also when you'll have the most daylight hours to explore. Always remember to check the National Park Service's website for current conditions and alerts before your visit!
-```
+- [Rental cars at PHX airport](https://www.skyharbor.com/ground-transportation/rental-cars/)
+- [Turo rentals at PHX](https://turo.com/us/en/search?age=30&country=US&defaultZoomLevel=7&deliveryLocationType=airport&endDate=04%2F11%2F2026&endTime=10%3A00&flexibleType=NOT_FLEXIBLE&isMapSearch=false&itemsPerPage=200&latitude=33.43727&location=PHX%20-%20Phoenix%20Sky%20Harbor%20International%20Airport&locationType=AIRPORT&longitude=-112.00779&minimumSeatCount=6&monthlyEndDate=03%2F14%2F2026&monthlyStartDate=12%2F14%2F2025&pickupType=ALL&placeId=ChIJpXADM1wOK4cRQu5W4tU19YI&region=AZ&searchDurationType=DAILY&sortType=RELEVANCE&startDate=04%2F04%2F2026&startTime=10%3A00&type=MINIVAN&type=VAN&type=SUV&useDefaultMaximumDistance=true)
+	- [Check out this pink Tesla!](https://turo.com/us/en/suv-rental/united-states/mesa-az/tesla/model-x/2918834?endDate=04%2F11%2F2026&endTime=10%3A00&searchId=78-zsHCv&searchRegion=AZ&startDate=04%2F04%2F2026&startTime=10%3A00)
+- [Detroit to Grand Canyon 2 adults, April 4-11](https://www.google.com/travel/flights/search?tfs=CBwQAhooEgoyMDI2LTA0LTA0agwIAhIIL20vMDJkdGdyDAgDEggvbS8wY25ychooEgoyMDI2LTA0LTExagwIAxIIL20vMGNucnJyDAgCEggvbS8wMmR0Z0ABQAFIAXABggELCP___________wGYAQHIAQE&tfu=EgoIABAAGAAgAigB&tcfs=EkEKDS9nLzExczZfd2JucDYSFkdyYW5kIENhbnlvbiBTb3V0aCBSaW0aGAoKMjAyNi0wMy0wMRIKMjAyNi0wMy0wOBgCUgA) - $586 round trip.  Relatively consistent through the month.
+- [Detroit to Grand Canyon 1 adult, 2 children, April 4-11](https://www.google.com/travel/flights/search?tfs=CBwQAhooEgoyMDI2LTA0LTA0agwIAhIIL20vMDJkdGdyDAgDEggvbS8wY25ychooEgoyMDI2LTA0LTExagwIAxIIL20vMGNucnJyDAgCEggvbS8wMmR0Z0ABQAFIAXABggELCP___________wGYAQHIAQE&tfu=EgoIABAAGAAgAigB&tcfs=EkEKDS9nLzExczZfd2JucDYSFkdyYW5kIENhbnlvbiBTb3V0aCBSaW0aGAoKMjAyNi0wMy0wMRIKMjAyNi0wMy0wOBgCUgA) - $1,008 round trip.  Relatively consistent through the month.
+- [Grand Rapids to Grand Canyon 1 adult, 2 children, March 1-8](https://www.google.com/travel/flights/search?tfs=CBwQAhooEgoyMDI2LTA0LTA0agwIAxIIL20vMHY5cWdyDAgDEggvbS8wcW54chooEgoyMDI2LTA0LTExagwIAxIIL20vMHFueHJyDAgDEggvbS8wdjlxZ0ABQAJAAkgBcAGCAQsI____________AZgBAcgBAQ&tfu=EgoIABAAGAAgAigB&tcfs=EkEKDS9nLzExczZfd2JucDYSFkdyYW5kIENhbnlvbiBTb3V0aCBSaW0aGAoKMjAyNi0wMy0wMRIKMjAyNi0wMy0wOBgCUgA) - $1,874 round trip.  Consistent for month.

@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "C:/Users/corrion/Documents/git/blog/quickstart",
+	"sourceRoot": "C:/Users/corrion/Documents/git/blog",
 	"sources": [
 		"ananke/css/main.css"
 	],
