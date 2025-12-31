@@ -62,6 +62,9 @@ canyon.
 - [Native American Art of the Grand Canyon](https://www.nps.gov/articles/000/native-art-and-activism-of-the-grand-canyon.htm)
 - [Skywalk Bridge](https://grandcanyonwest.com/things-to-do/skywalk/)
 
+## Reference
+- [Lonely Planet Grand Canyon](https://www.lonelyplanet.com/destinations/usa/arizona/grand-canyon-national-park)
+
 
 ## Getting there
 - [Rental cars at PHX airport](https://www.skyharbor.com/ground-transportation/rental-cars/)
@@ -70,3 +73,8 @@ canyon.
 - [Detroit to Grand Canyon 2 adults, April 4-11](https://www.google.com/travel/flights/search?tfs=CBwQAhooEgoyMDI2LTA0LTA0agwIAhIIL20vMDJkdGdyDAgDEggvbS8wY25ychooEgoyMDI2LTA0LTExagwIAxIIL20vMGNucnJyDAgCEggvbS8wMmR0Z0ABQAFIAXABggELCP___________wGYAQHIAQE&tfu=EgoIABAAGAAgAigB&tcfs=EkEKDS9nLzExczZfd2JucDYSFkdyYW5kIENhbnlvbiBTb3V0aCBSaW0aGAoKMjAyNi0wMy0wMRIKMjAyNi0wMy0wOBgCUgA) - $586 round trip.  Relatively consistent through the month.
 - [Detroit to Grand Canyon 1 adult, 2 children, April 4-11](https://www.google.com/travel/flights/search?tfs=CBwQAhooEgoyMDI2LTA0LTA0agwIAhIIL20vMDJkdGdyDAgDEggvbS8wY25ychooEgoyMDI2LTA0LTExagwIAxIIL20vMGNucnJyDAgCEggvbS8wMmR0Z0ABQAFIAXABggELCP___________wGYAQHIAQE&tfu=EgoIABAAGAAgAigB&tcfs=EkEKDS9nLzExczZfd2JucDYSFkdyYW5kIENhbnlvbiBTb3V0aCBSaW0aGAoKMjAyNi0wMy0wMRIKMjAyNi0wMy0wOBgCUgA) - $1,008 round trip.  Relatively consistent through the month.
 - [Grand Rapids to Grand Canyon 1 adult, 2 children, March 1-8](https://www.google.com/travel/flights/search?tfs=CBwQAhooEgoyMDI2LTA0LTA0agwIAxIIL20vMHY5cWdyDAgDEggvbS8wcW54chooEgoyMDI2LTA0LTExagwIAxIIL20vMHFueHJyDAgDEggvbS8wdjlxZ0ABQAJAAkgBcAGCAQsI____________AZgBAcgBAQ&tfu=EgoIABAAGAAgAigB&tcfs=EkEKDS9nLzExczZfd2JucDYSFkdyYW5kIENhbnlvbiBTb3V0aCBSaW0aGAoKMjAyNi0wMy0wMRIKMjAyNi0wMy0wOBgCUgA) - $1,874 round trip.  Consistent for month.
+
+## Hiking
+- Rim to River Hike is probably the most approachable.
+	- (The guide here says it's ~11 hours)[https://www.trailgroove.com/blogs/entry/268-grand-canyon-hiking-and-backpacking-logistics/]
+	- Seems to be an ~11 hr hike.  Is there anything around here comparable in length?

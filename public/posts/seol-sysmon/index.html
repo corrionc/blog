@@ -4,9 +4,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
-    <title>Cleaning SEoL .Net Frameworks with Sysmon | Argleblarg</title>
+    <title>Cleaning SEoL dotnet Frameworks with Sysmon | Argleblarg</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="description" content="Here is some text.">
+    <meta name="description" content="The problem: We need to remove a great many unsupported .Net Core frameworks from  the fleet, but we have no idea what&rsquo;s using them.  And randomly breaking things isn&rsquo;t an option.
+At a high level, we deployed Sysmon to every PC that had a dotnet runtime, with a configuration that detected dll loads from .net directories.  This was paired with a scheduled task that fired every time an event was written to the Sysmon log, converting it to a file.">
     <meta name="generator" content="Hugo 0.152.2">
     
     
@@ -39,22 +40,25 @@
     
     <meta property="og:url" content="http://localhost:1313/posts/seol-sysmon/">
   <meta property="og:site_name" content="Argleblarg">
-  <meta property="og:title" content="Cleaning SEoL .Net Frameworks with Sysmon">
-  <meta property="og:description" content="Here is some text.">
+  <meta property="og:title" content="Cleaning SEoL dotnet Frameworks with Sysmon">
+  <meta property="og:description" content="The problem: We need to remove a great many unsupported .Net Core frameworks from the fleet, but we have no idea what’s using them. And randomly breaking things isn’t an option.
+At a high level, we deployed Sysmon to every PC that had a dotnet runtime, with a configuration that detected dll loads from .net directories. This was paired with a scheduled task that fired every time an event was written to the Sysmon log, converting it to a file.">
   <meta property="og:locale" content="en_us">
   <meta property="og:type" content="article">
     <meta property="article:section" content="posts">
-    <meta property="article:published_time" content="2025-11-30T10:08:29-05:00">
-    <meta property="article:modified_time" content="2025-11-30T10:08:29-05:00">
+    <meta property="article:published_time" content="2025-12-29T10:08:29-05:00">
+    <meta property="article:modified_time" content="2025-12-29T10:08:29-05:00">
 
-  <meta itemprop="name" content="Cleaning SEoL .Net Frameworks with Sysmon">
-  <meta itemprop="description" content="Here is some text.">
-  <meta itemprop="datePublished" content="2025-11-30T10:08:29-05:00">
-  <meta itemprop="dateModified" content="2025-11-30T10:08:29-05:00">
-  <meta itemprop="wordCount" content="4">
+  <meta itemprop="name" content="Cleaning SEoL dotnet Frameworks with Sysmon">
+  <meta itemprop="description" content="The problem: We need to remove a great many unsupported .Net Core frameworks from the fleet, but we have no idea what’s using them. And randomly breaking things isn’t an option.
+At a high level, we deployed Sysmon to every PC that had a dotnet runtime, with a configuration that detected dll loads from .net directories. This was paired with a scheduled task that fired every time an event was written to the Sysmon log, converting it to a file.">
+  <meta itemprop="datePublished" content="2025-12-29T10:08:29-05:00">
+  <meta itemprop="dateModified" content="2025-12-29T10:08:29-05:00">
+  <meta itemprop="wordCount" content="169">
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Cleaning SEoL .Net Frameworks with Sysmon">
-  <meta name="twitter:description" content="Here is some text.">
+  <meta name="twitter:title" content="Cleaning SEoL dotnet Frameworks with Sysmon">
+  <meta name="twitter:description" content="The problem: We need to remove a great many unsupported .Net Core frameworks from the fleet, but we have no idea what’s using them. And randomly breaking things isn’t an option.
+At a high level, we deployed Sysmon to every PC that had a dotnet runtime, with a configuration that detected dll loads from .net directories. This was paired with a scheduled task that fired every time an event was written to the Sysmon log, converting it to a file.">
 
 	
   </head><body class="ma0 avenir bg-near-white development">
@@ -96,17 +100,20 @@
           
         Posts
       </aside><div id="sharing" class="mt3 ananke-socials"></div>
-<h1 class="f1 athelas mt3 mb1">Cleaning SEoL .Net Frameworks with Sysmon</h1>
+<h1 class="f1 athelas mt3 mb1">Cleaning SEoL dotnet Frameworks with Sysmon</h1>
       
       
       
-      <time class="f6 mv4 dib tracked" datetime="2025-11-30T10:08:29-05:00">November 30, 2025</time>
+      <time class="f6 mv4 dib tracked" datetime="2025-12-29T10:08:29-05:00">December 29, 2025</time>
       
 
       
       
     </header>
-    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-100-l"><p>Here is some text.</p>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-100-l"><p>The problem: We need to remove a great many unsupported .Net Core frameworks from  the fleet, but we have no idea what&rsquo;s using them.  And randomly breaking things isn&rsquo;t an option.</p>
+<p>At a high level, we deployed Sysmon to every PC that had a dotnet runtime, with a configuration that detected dll loads from .net directories.  This was paired with a scheduled task that fired every time an event was written to the Sysmon log, converting it to a file.</p>
+<p>We then collected these events to a central location, and recorded what apps were using the outdated .net frameworks.  We made device collections for each app installed, and used those to exclude the the devices from the final removal collection.</p>
+<p>Once we had accumulated enough usage data that we were confident that there were no surprise applications, we deployed the uninstaller.  The initial uninstaller used the dotnet uninstall tool, but this failed to actually remove things.  A second tool that used PSAppDeployToolkit to remove the runtimes worked much better.</p>
 <ul class="pa0">
   
 </ul>
