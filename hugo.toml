@@ -1,7 +1,7 @@
 baseURL = 'https://corrionc.github.io/'
 languageCode = 'en-us'
 title = 'Argleblarg'
-theme = 'ananke'
+theme = 'hextra'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
