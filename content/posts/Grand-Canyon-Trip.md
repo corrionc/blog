@@ -76,5 +76,5 @@ canyon.
 
 ## Hiking
 - Rim to River Hike is probably the most approachable.
-	- (The guide here says it's ~11 hours)[https://www.trailgroove.com/blogs/entry/268-grand-canyon-hiking-and-backpacking-logistics/]
+	- [The guide here says it's ~11 hours](https://www.trailgroove.com/blogs/entry/268-grand-canyon-hiking-and-backpacking-logistics/)
 	- Seems to be an ~11 hr hike.  Is there anything around here comparable in length?
