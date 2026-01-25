@@ -5,6 +5,20 @@ title = 'Grand Canyon Planning'
 [build]
 	list = 'never'
 +++
+
+## Staying there
+| Hotel             | Rate             | Notes                                                                              |
+| ----------------- | ---------------- | ---------------------------------------------------------------------------------- |
+| Maswik Lodge      | $586/room/night  | In-Park                                                                            |
+| Yavapi Lodge W    | $375/rm/night    | In-Park                                                                            |
+| Yavapi Lodge E    | $429/rm/night    | ~30 rooms left 01/24/26                                                            |
+| Red Feather Hotel | $250/room/night  | Out-of-park.  [~5 min drive into park.](https://maps.app.goo.gl/cZfAyHEUWaf7Eyjx8) |
+| Red Feather Motel | $189.20/rm/night | Staff recommended picking up food in Flagstaff.                                    |
+| Holiday Inn       | $400/room/night  | Out-of-park, 23 rooms left as of 01/24                                             |
+
+
+
+
 ## Getting there
 - Can't fly directly into GC, need to fly to nearby airport and drive
 	- Don't plan on moving before 7am or after ~10pm
