@@ -19,6 +19,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 (function () {
   const searchDataURL = '/en.search-data.json';
+  const resultsFoundTemplate = '%d results found';
 
   const inputElements = document.querySelectorAll('.hextra-search-input');
   for (const el of inputElements) {
@@ -242,7 +243,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
         const crumbData = data[searchUrl];
         if (!crumbData) {
-          console.warn('Excluded page', searchUrl, '- will not be included for search result breadcrumb for', route);
+          console.debug('Excluded page', searchUrl, '- will not be included for search result breadcrumb for', route);
           continue;
         }
 
@@ -387,6 +388,12 @@ document.addEventListener("DOMContentLoaded", function () {
 
     if (!results.length) {
       resultsElement.innerHTML = `<span class="hextra-search-no-result">No results found.</span>`;
+      // Announce no results to screen readers
+      const wrapper = resultsElement.closest('.hextra-search-wrapper');
+      const statusEl = wrapper ? wrapper.querySelector('.hextra-search-status') : null;
+      if (statusEl) {
+        statusEl.textContent = 'No results found.';
+      }
       return;
     }
 
@@ -470,5 +477,14 @@ document.addEventListener("DOMContentLoaded", function () {
     }
     resultsElement.appendChild(fragment);
     resultsElement.dataset.count = results.length;
+
+    // Announce results count to screen readers
+    const wrapper = resultsElement.closest('.hextra-search-wrapper');
+    const statusEl = wrapper ? wrapper.querySelector('.hextra-search-status') : null;
+    if (statusEl) {
+      statusEl.textContent = results.length > 0
+        ? resultsFoundTemplate.replace('%d', results.length.toString())
+        : 'No results found.';
+    }
   }
 })();
